@@ -1,0 +1,8 @@
+import wollok.game.*
+import mecanica.*
+import estructura.*
+ 
+program miJuego {
+	console.println('Hello Wollok')
+	juego.iniciarJuego()
+}

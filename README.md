@@ -9,7 +9,8 @@
 
 ## Capturas
 !(E:\OneDrive\Escritorio\imagenes\imagen0.png)
-!(E:\OneDrive\Escritorio\imagenes\imagen1.png)
+
+!(E:\OneDrive\Escritorio\imagenes\imagen1.png "asd")
 !(E:\OneDrive\Escritorio\imagenes\imagen2.png)
 
 ## Reglas de Juego / Instrucciones
@@ -25,3 +26,4 @@ En el camino, te encontrarás herramientas para hacer tu camino no fácil, sino 
 - Paradigmas de programación - Jueves mañana - K2004 - FRBA
 - Versión de wollok : 3.0.0
 - Una vez terminado, no tenemos problemas en que el repositorio sea público
+

@@ -8,8 +8,9 @@
 - Lucía Baez
 
 ## Capturas
-
-(agregar)
+!(E:\OneDrive\Escritorio\imagenes\imagen0.png)
+!(E:\OneDrive\Escritorio\imagenes\imagen1.png)
+!(E:\OneDrive\Escritorio\imagenes\imagen2.png)
 
 ## Reglas de Juego / Instrucciones
 

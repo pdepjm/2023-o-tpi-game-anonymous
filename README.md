@@ -11,6 +11,7 @@
 !(E:\OneDrive\Escritorio\imagenes\imagen0.png)
 
 !(E:\OneDrive\Escritorio\imagenes\imagen1.png "asd")
+
 !(E:\OneDrive\Escritorio\imagenes\imagen2.png)
 
 ## Reglas de Juego / Instrucciones

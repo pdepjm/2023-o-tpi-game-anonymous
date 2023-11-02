@@ -11,7 +11,7 @@
 
 (agregar)
 
-## Reglas de J)uego / Instrucciones
+## Reglas de Juego / Instrucciones
 
 La instrucción principal que el usuario debe conocer sobre este juego es la siguiente: salvar a 10peso´!.
 Básicamente el juego muestra como un heroico empresario se abre camino ante terribles amenazas para poder agarrar el famoso billete de 10 pesos y contribuir con 10peso´.

@@ -8,11 +8,12 @@
 - Lucía Baez
 
 ## Capturas
-!(E:\OneDrive\Escritorio\imagenes\imagen0.png)
+![imagen0](https://github.com/pdepjm/2023-o-tpi-game-anonymous/assets/129626759/30601145-29a5-4b16-b36f-9ab07856c232)
 
-!(E:\OneDrive\Escritorio\imagenes\imagen1.png "asd")
+![imagen1](https://github.com/pdepjm/2023-o-tpi-game-anonymous/assets/129626759/651ab096-06dd-417b-93aa-cad4003cfc89)
 
-!(E:\OneDrive\Escritorio\imagenes\imagen2.png)
+![imagen2](https://github.com/pdepjm/2023-o-tpi-game-anonymous/assets/129626759/4fffcba2-7675-46ec-8683-e70b7e97e197)
+
 
 ## Reglas de Juego / Instrucciones
 

@@ -17,11 +17,17 @@
 
 ## Reglas de Juego / Instrucciones
 
-La instrucción principal que el usuario debe conocer sobre este juego es la siguiente: salvar a 10peso´!.
-Básicamente el juego muestra como un heroico empresario se abre camino ante terribles amenazas para poder agarrar el famoso billete de 10 pesos y contribuir con 10peso´.
-Para esto, se debe saber que habrán enemigos custodiando el billete y el empresario deberá encontrar la manera de llegar hacia el billete combinando disparos y saltos muy certeros, todo esto mientras esquiva las letales bolas de fuego de la raza reptiliana que parece haber tomado control de la Tierra. Una vez que el empresario obtiene el billete, las cosas seguirán siendo complicadas ya que ahora debe llevarselo a 10peso´ y salvarlo de su inminente destino frente a los reptilianos.
-En el camino, te encontrarás herramientas para hacer tu camino no fácil, sino que posible, nunca dejes de moverte y siempre estate en busca de esas herramientas, las vas a necesitar!
+El jugador tiene una sola misión: Salvar a Diez Pesos!
 
+En esta aventura, un heroíco joven se abre camino ante terribles amenazas para poder agarrar un preciado billete de $10 y entregarselo a Diez Pesos, tal como se le ordena. Para esto, deberá batallar contra enemigos que están custodiando el dinero, encontrando así la manera de llegar hacia el tesoro. Combiná disparos y saltos muy certeros en plataformas, mientras esquivás las letales bolas de fuego de una raza reptiliana. Una vez que el empresario obtiene el billete, podrá ayudar a Diez Pesos a tener una mejor vida. Pero no te relajes, ya que el cronómetro sigue corriendo y, de no poder finalizar en menos de un minuto y medio, los reptilianos se quedarán con tus $10. En el camino, encontrarás ayuda en forma de Botiquines y Armas para hacer tu camino más fácil. 
+
+Nunca dejes de moverte y siempre estate en busca de esas herramientas, las vas a necesitar!
+
+## Controles
+
+Up: Saltar
+Left/Right: Moverse hacia los costados
+X: Disparar
 
 ## Otros
 

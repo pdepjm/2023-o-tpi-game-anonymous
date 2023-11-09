@@ -1,0 +1,8 @@
+import wollok.game.*
+import personaje.*
+import configuracion.*
+
+program miJuego {
+	console.println('Diez Pesos')
+	juego.introduccion()
+}

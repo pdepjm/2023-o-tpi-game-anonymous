@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="assets"/>
+	<classpathentry excluding="assets/|assets/armas/|assets/bonus/|assets/celdas/|assets/fondos/|assets/jugador/|assets/npc/" kind="src" path="src"/>
+	<classpathentry excluding="armas/|bonus/|celdas/|fondos/|jugador/|npc/" kind="src" path="src/assets"/>
+	<classpathentry kind="src" path="src/assets/armas"/>
+	<classpathentry kind="src" path="src/assets/bonus"/>
+	<classpathentry kind="src" path="src/assets/celdas"/>
+	<classpathentry kind="src" path="src/assets/fondos"/>
+	<classpathentry kind="src" path="src/assets/jugador"/>
+	<classpathentry kind="src" path="src/assets/npc"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="output" path="bin"/>

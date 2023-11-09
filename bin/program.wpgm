@@ -3,6 +3,6 @@ import personaje.*
 import configuracion.*
 
 program miJuego {
-	console.println('Hello Wollok')
-	juego.iniciarJuego()
+	console.println('Diez Pesos')
+	juego.introduccion()
 }
